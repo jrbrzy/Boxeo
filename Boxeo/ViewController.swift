@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     @IBAction func jairi(_ sender: Any) {
         //        jairi.setImage(UIImage(names: "jairito"), for: .normal)
         //    }else
-        
+        //action here
         
         
         

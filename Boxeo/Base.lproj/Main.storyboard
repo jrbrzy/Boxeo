@@ -45,6 +45,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain" image="jairito"/>
                                                 <connections>
+                                                    <action selector="jairi:" destination="BYZ-38-t0r" eventType="touchUpInside" id="peY-eW-pGx"/>
                                                     <action selector="jairito:" destination="BYZ-38-t0r" eventType="touchUpInside" id="232-3b-xN4"/>
                                                 </connections>
                                             </button>
